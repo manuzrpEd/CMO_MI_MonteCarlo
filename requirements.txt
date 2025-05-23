@@ -1,0 +1,9 @@
+matplotlib
+nbformat
+numpy
+pandas
+seaborn
+scikit-learn
+tqdm
+vectorbt
+yfinance
