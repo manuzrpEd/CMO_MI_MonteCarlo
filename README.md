@@ -1,1 +1,1 @@
-Constructing the Chande Momentum Oscillator (CMO) as a technical momentum indicator and simulating equity curves.
+Constructing the Chande Momentum Oscillator (CMO) and Mass Index as technical indicators and simulating equity curves.
